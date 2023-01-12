@@ -1,5 +1,10 @@
 public static class Sorting
 {
+    /// <summary>
+    /// Сортировка выбором
+    /// </summary>
+    /// <param name="collection">Исходный массив</param>
+    /// <returns>Отсортированный от мин к макс массив</returns>
     public static int[] SortSelection(this int[] collection)
     {
         int size = collection.Length;
