@@ -1,1 +1,2 @@
-# Tasks from lecture No. 1, No.2 С#
+# Bootcamp 0123 С#
+# Буткемп по программированию янв.2023
